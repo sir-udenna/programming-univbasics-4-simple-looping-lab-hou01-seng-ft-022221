@@ -5,3 +5,5 @@ def loop_message_five_times(string)
   puts string
 end
 end
+
+loop_message_five_times("Hello world.")
