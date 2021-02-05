@@ -9,7 +9,7 @@ end
 
 def loop_message_n_times(string, integer)
   count = integer
-  while count < 
+  count.times do 
   puts "#{string}"
   end
 end
